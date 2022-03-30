@@ -12,7 +12,7 @@ Instructions for Discussion Section of Final Report ([PDF]({{< baseurl >}}/resou
 
 Grade Sheet ([PDF]({{< baseurl >}}/resources/mit5_37s09_lab01_gradesheet))
 
-The [Digital Lab Techniques Manual](/resources/res-5-0001-digital-lab-techniques-manual-spring-2007/index.htm) provides detailed instructions concerning most of the experimental techniques employed in this lab. The specific videos that are relevant to this module are indicated in each section of Part V of the Lab Manual.
+The [Digital Lab Techniques Manual](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007) provides detailed instructions concerning most of the experimental techniques employed in this lab. The specific videos that are relevant to this module are indicated in each section of Part V of the Lab Manual.
 
 Lab Schedule
 ------------

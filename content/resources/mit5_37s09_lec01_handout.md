@@ -5,6 +5,7 @@ description: Lecture notes on organic synthesis, the Diels-Alder reaction, strat
   and the power of convergent synthesis.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/e8ac36ca55ffdeafa8769e17be2c0efe_MIT5_37s09_lec01_Handout.pdf
 file_type: application/pdf
+parent_uid: 68582b4c-19aa-5bb1-fbc1-a437a7015962
 resourcetype: Document
 title: 'Introduction to Organic Synthesis: The Diels-Alder Reaction'
 uid: e8ac36ca-55ff-deaf-a876-9e17be2c0efe
